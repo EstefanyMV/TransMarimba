@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="lala.css">
+    <title>TransMarimba</title>
+    <link rel="icon" href="TransMarimbaLOGO (1).png">
+    <a href="http-server -a 192.168.1.100"></a>
+</head>
+<body>
+
+<header class="header">
+<div class="menu container">
+    <input type="checkbox" id="menu">
+    <labe for="menu">
+        <nav class="navbar">
+            <ul>
+            <li><a href="#servicios">Servicios</a></li>
+            <li><a href="#nosotros">Nosotros</a></li>
+            <li><a href="#informacion">Informacion</a></li>
+            <li><a href="#contacto">Contacto</a></li>
+            <li><a href="#consulta">Consulta</a></li>
+            <li><a href="#politica">Politica</a></li>
+            <li><a href="#encuentranos">Encuentranos</a></li>
+            </ul>
+         </nav>
+    </labe>
+
+</div>
+
+<div class="header-content container">
+          <h1>TransMarimba</h1>
+          <p>Bienvenidos a Transmarimba, líderes en transporte en Medellín
+             y en toda Colombia. Ofrecemos servicios especializados tanto para 
+             pasajeros como para mercancías, asegurando comodidad, seguridad y
+              puntualidad en cada viaje. Con una flota moderna y personal capacitado,
+               garantizamos soluciones eficientes y confiables para tus necesidades
+               logísticas. Contáctanos hoy y descubre por qué somos tu mejor opción 
+               en transporte y logística.</p>
+               <a href="Index.SobreNosotros.html" class="btn-1" >Sobre Nosotros</a>
+</div>
+    </header>
+
+
+<section class="bus">
+    <div class="popular-content container">
+        <center><h2>Descubre nuestras rutas mas populares</h2></center>
+        <p class="txt-p">
+         Los viajes más populares de Transmarimba hacia Manizales, 
+         Santa Marta, Guatapé y Cartagena son una verdadera experiencia
+          de comodidad y eficiencia. Con Transmarimba, cada viaje se 
+          convierte en una oportunidad para disfrutar de paisajes impresionantes
+           y llegar a destinos icónicos de manera segura y puntual. Su compromiso
+            con el servicio al cliente y la calidad en cada detalle hacen que cada
+             viaje sea memorable y libre de preocupaciones.
+            </p>
+
+            <div class="container-8">
+                <div class="bus-group">
+                    <div class="bus-1">
+                    <img src="imagen1" width="600px" height= "200px" alt="">
+                    <h3>Cartagena</h3>
+                    <div class="price"> 
+                    <p>$135.000</p>
+                    <a href="https://pinbus.com/?utm_term=reserva+boletos+de+autobus&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=6677378374&hsa_cam=19909689311&hsa_grp=151000549869&hsa_ad=666017376457&hsa_src=g&hsa_tgt=kwd-621558139173&hsa_kw=reserva+boletos+de+autobus&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwqMO0BhA8EiwAFTLgIHNdK3oMDBF_BnBvaSQX9RaNVe93lFRQdyClHy6csKCZwRbEdXqHPxoC8A0QAvD_BwE" class="btn-1"> Ver Destino</a>
+                   </div>
+                   </div>
+      
+                      
+                  </div>    
+            </div>
+
+
+            <div class="container-8">
+                <div class="bus-1">
+                    <img src="imagen2" width="600px" height= "200px" alt="">
+                    <h3>Santa Marta</h3>
+                    <div class="price"> 
+                       <p>$80.000</p>
+                       <a href="https://pinbus.com/?utm_term=reserva+boletos+de+autobus&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=6677378374&hsa_cam=19909689311&hsa_grp=151000549869&hsa_ad=666017376457&hsa_src=g&hsa_tgt=kwd-621558139173&hsa_kw=reserva+boletos+de+autobus&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwqMO0BhA8EiwAFTLgIHNdK3oMDBF_BnBvaSQX9RaNVe93lFRQdyClHy6csKCZwRbEdXqHPxoC8A0QAvD_BwE" class="btn-1"> Ver Destino</a>
+                   </div>
+               </div>
+            </div>
+
+
+            <div class="container-8">
+                <div class="bus-1">
+                    <img src="imagen3" width="600px" height= "200px" alt="">
+                    <h3>Valle del cocora</h3>
+                    <div class="price"> 
+                       <p>$135.000</p>
+                       <a href="https://pinbus.com/?utm_term=reserva+boletos+de+autobus&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=6677378374&hsa_cam=19909689311&hsa_grp=151000549869&hsa_ad=666017376457&hsa_src=g&hsa_tgt=kwd-621558139173&hsa_kw=reserva+boletos+de+autobus&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwqMO0BhA8EiwAFTLgIHNdK3oMDBF_BnBvaSQX9RaNVe93lFRQdyClHy6csKCZwRbEdXqHPxoC8A0QAvD_BwE" class="btn-1"> Ver Destino</a>
+                   </div>
+                   </div>
+                </div>
+            
+           
+
+
+                <div class="container-8">
+                    <div class="bus-1">
+                        <img src="imagen4" width="600px" height= "200px" alt="">
+                        <h3>Guatape</h3>
+                        <div class="price"> 
+                           <p>$135.000</p>
+                           <a href="https://pinbus.com/?utm_term=reserva+boletos+de+autobus&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=6677378374&hsa_cam=19909689311&hsa_grp=151000549869&hsa_ad=666017376457&hsa_src=g&hsa_tgt=kwd-621558139173&hsa_kw=reserva+boletos+de+autobus&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwqMO0BhA8EiwAFTLgIHNdK3oMDBF_BnBvaSQX9RaNVe93lFRQdyClHy6csKCZwRbEdXqHPxoC8A0QAvD_BwE" class="btn-1"> Ver Destino</a>
+                       </div>
+                       </div>
+                </div>
+            
+    </div>   
+</section>
+
+
+<main class="nosotros" id="nosotros">
+<div class="nosotros-content container">
+    <h2>Nosotros</h2>
+    <div class="nosotros-group">
+        
+        <div class="nosotros-1">
+            <img src="icono.mision" width="40px" height="40px" alt="">
+            <h3>Mision</h3>
+            <p>
+                Facilitar el movimiento seguro, eficiente y 
+                confiable de mercancías en todo Colombia, ofreciendo 
+                servicios de transporte de primera clase. Nos comprometemos
+                a satisfacer las necesidades logísticas de nuestros clientes 
+                con profesionalismo y puntualidad, aprovechando nuestra experiencia
+                y recursos para garantizar la entrega oportuna y segura de cada envío.
+            </p>
+        </div>
+
+        <div class="nosotros-1">
+            <img src="vision.imagen" width="50px" height="50px" alt="" >
+            <h3>Vision</h3>
+            <p>
+             Ser reconocidos como líderes en el sector de transporte 
+             de mercancías en Colombia, destacándonos por nuestra excelencia operativa, 
+             innovación continua y compromiso con la satisfacción del cliente. Aspiramos
+             a expandir nuestra red de servicios y consolidar nuestra posición como el 
+             socio logístico preferido para empresas de todos los sectores en el país.
+            </p>
+        </div>
+
+    </div>
+</div>
+</main>
+
+<section class="general" id="información">
+    <div class="general-1">
+        <h2>Nuestros Empleados</h2>
+        <p>
+         En Transmarimba, valoramos a cada miembro de nuestro equipo 
+         como pieza fundamental para ofrecer el mejor servicio a nuestros clientes.
+         Desde nuestros conductores hasta nuestro personal administrativo, 
+         cada empleado de Transmarimba está comprometido con la excelencia y
+          la satisfacción del cliente.   
+        </p>
+     <a href="#" class="btn-1">Mas información</a>
+    </div>
+    <div class="general-2"></div>
+
+</section>
+
+
+<section class="general" id="informacion">
+     <div class="general-3"></div>
+    <div class="general-1">
+        <h2>Nuestros Empleados</h2>
+        <p>
+         En Transmarimba, valoramos a cada miembro de nuestro equipo 
+         como pieza fundamental para ofrecer el mejor servicio a nuestros clientes.
+         Desde nuestros conductores hasta nuestro personal administrativo, 
+         cada empleado de Transmarimba está comprometido con la excelencia y
+          la satisfacción del cliente.   
+        </p>
+     <a href="#" class="btn-1">Mas información</a>
+    </div>
+    
+
+</section>
+
+
+<section class="consulta" id="consulta">
+    <h2>Consulta tu viaje</h2>
+    <div class="container-2">
+        <form>
+            <label for="type of user">Origen</label><br>
+            <select id="type of user" name="type of user" required>
+                <option value="barranquilla">Barranquilla</option>
+                <option value="sabana larga">Sabana Larga</option>
+                <option value="baranoa">Baranoa</option>
+                <option value="campeche">Campeche</option>
+                <option value="campo de la cruz">Campo de la cruz</option>
+                <option value="caucasia">Caucasia</option>
+                <option value="taraza">Taraza</option>
+                <option value="rionegro">Rionegro</option>
+                <option value="doradal">Doradal</option>
+                <option value="yarumal">Yarumal</option>
+                <option value="marinilla">Marinilla</option>
+                <option value="bello">Bello</option>
+            </select><br>
+
+            
+        </form>
+
+        <form>
+            <label for="type of user">Destino</label><br>
+            <select id="type of user" name="type of user" required>
+                <option value="cundinamarca">Cundinamarca</option>
+                <option value="bogota">Bogota</option>
+                <option value="cartagena">Cartagena</option>
+                <option value="clemencia">Clemencia</option>
+                <option value="santa marta">Santa marta</option>
+                <option value="aracataca">Aracataca</option>
+                <option value="tayrona">Tayrona</option>
+                <option value="riohacha">Riohacha</option>
+                <option value="bucaramang">Bucaramanga</option>
+                <option value="yarumal">Yarumal</option>
+                <option value="marinilla">Marinilla</option>
+                <option value="bello">Bello</option>
+            </select><br>
+
+
+            <label for="type of user">¿Cuando viajas?</label><br>
+            <select id="type of user" name="type of user" required>
+                <option value="hoy">Hoy</option>
+                <option value="mañana">Mañana</option>
+                <option value="elegir">Elegir </option>
+            </select><br>
+
+        
+                <a href="#" class="btn-1">Buscar</a>
+            
+        </form>
+       
+    </div>
+
+</section>
+
+<section class="politica-container" id="politica">
+    <center><h2>Politica</h2></center>
+    <div class="container-3">
+        <a class="btn" href="">Seguridad de los pasajeros</a>
+    </div>
+    
+    <div class="container-3">
+        <a class="#" href="">Equipaje</a>
+    </div>
+   
+    <div class="container-3">
+        <a class="#" href="">Tarifas y formas de pago</a>
+    </div>
+  
+    <div class="container-3">
+        <a class="#" href="">Atencion al cliente</a>
+    </div>
+
+    <div class="container-3">
+        <a class="#" href="">Compromiso Ambiental</a>
+    </div>
+   
+   
+</section>
+
+
+<section class="encuentranos" id="encuentranos">
+    <div class="#">
+        <div class="#">
+            <center><h2>Encuéntranos</h2></center>
+            <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3976.552631676385!2d-75.5893969852322!3d6.244203995475202!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e443dcb3d992f7d%3A0x1a6d34bb6b1b7bbf!2sMedell%C3%ADn%2C%20Antioquia%2C%20Colombia!5e0!3m2!1sen!2sus!4v1625590387398!5m2!1sen!2sus" width="640" height="360" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            </div> </center>
+    </div>
+</section>
+
+<section class="servicios" id="servicios">
+    <div class="servicios-content-container">
+      <h2>Servicios de nuestras compañia</h2>
+        <div class="video-container">
+            <video width="640" height="360" controls>
+                <source src="TRANSPORTE EJECUTIVOS  COM.mp4" type="video/mp4">
+            </video>
+
+            <video width="640" height="360" controls>
+                <source src="_Medidas de Seguridad en el Transporte Público.mp4" type="video/mp4">
+            </video>
+        </div>
+    </div>
+
+</section>
+
+
+<div class="container-11">
+    <h2>Formulario de Contacto</h2>
+    <form action="#" method="POST">
+        <div class="form-group">
+            <label for="nombre">Nombre:</label>
+            <input type="text" id="nombre" name="nombre" required>
+        </div>
+        
+        <div class="form-group">
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+        </div>
+        
+        <div class="form-group">
+            <label for="telefono">Telefono:</label>
+            <input type="text" id="telefono" name="telefono" required>
+        </div>
+
+        <div class="form-group">
+            <label for="mensaje">Mensaje:</label>
+            <textarea id="mensaje" name="mensaje" rows="4" required></textarea>
+        </div>
+        
+        <button type="submit">Enviar</button>
+    </form>
+</div>
+
+
+<footer>
+    <div class="container">
+        <div class="redes-sociales">
+            <center>
+                <h3>Siguenos en nuestras redes sociales</h3>
+                <a href="https://facebook.com/transportesexpress" target="_blank"><img src="https://www.pngarts.com/files/10/Facebook-Logo-Black-And-White-Free-PNG-Image.png" width="100px" alt="Facebook"></a>
+                <a href="https://twitter.com/transportesexpress" target="_blank"><img src="https://cdn-icons-png.freepik.com/512/254/254405.png" width="50px" alt="Twitter"></a>
+                <a href="https://instagram.com/transportesexpress" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/instagram_black_logo_icon_147122.png" width="50px" alt="Instagram" ></a>
+
+            </center>
+
+            <div class="contacto" id="contacto">
+                <h3>Contacto</h3>
+                <p>Dirección: Calle 123, Medellín, Antioquia</p>
+                <p>Teléfono: +57 123 456 789</p>
+                <p>Email: info@transmarimba.com</p>
+
+            </div>
+
+        </div>
+    </div>
+</footer>
+
+<footer>
+    <div class="footer-1">
+        <p>TransMarimba S.A. Transporte terrestre, Pasajeros, Carga, Turismo. TransMarimba S.A. NIT: 890902875-8 Línea de servicio al cliente: (604) 444 8888  Superintendencia de Transporte.</p>
+        <p> Estefany Molina Villarreal &copy; 2024 TransMarimba -  Todos los derechos reservados.</p>
+    </div>
+    
+</footer>
+
+
+</body>
+</html>
